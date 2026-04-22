@@ -1,5 +1,4 @@
-# Targeted-Fine-Grained-Poisoning-Attack-on-Set-Valued-Data-LDP-protocols
-Targeted Fine-Grained Poisoning Attack on Local Differential Privacy for Set-Valued Data
+# Targeted Fine-Grained Frequency Poisoning Attacks on Set-Valued LDP Mechanisms
 
 ## Project Description
 This project hosts the source code and resources for reproducing the experiments detailed in our paper. The core focus is to evaluate the vulnerability of various set valued data LDP mechanisms to fine-grained targeted poisoning attacks.
