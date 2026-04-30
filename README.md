@@ -21,3 +21,6 @@ TFOPA (Fine-Grained Targeted Output Poisoning Attack)
 
 ### AOA:
 This directory contains the comprehensive comparison framework. It includes the code for our novelly proposed attacks as well as re-implementations of the state-of-the-art attack from prior work. This setup allows for a direct and fair experimental comparison of their performance metrics.
+
+### Wasserstein:
+To quantify distribution-level stealth, we compute the first-order Wasserstein distance between estimated global frequency distributions with and without poisoning.
